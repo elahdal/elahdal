@@ -1,21 +1,13 @@
-<h1 align="left">Hello World! 👋</h1>
+<h4 align="left">Hello World! 👋 I’m a Full Stack Developer <br>💻 specializing in React ⚛️ ( and Node.js 🚀. <br>I work with Docker 🐳 and ensure quality with Cypress 🛠️ testing.<br><br>Feel free to explore my repos and reach out for collaboration 🤝!</h4>
 
 ###
 
-<h4 align="left">I’m a Full Stack Developer 💻 specializing in React ⚛️ (front-end) and Node.js 🚀 (back-end). I build responsive, user-friendly web apps 🌐 and love working with Redux 🔄, MongoDB 🗄️, and Docker 🐳and testing with  Cypress 🛠️.<br><br>Feel free to explore my repos and reach out for collaboration 🤝!</h4>
-
-###
-
-<h3 align="left">🚀 What I'm currently working on:</h3>
-
-###
-
-<h5 align="left">- Customer Management Dashboard <br>- FiveM delivery script</h5>
+<h5 align="left"></h5>
 
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=elahdal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=elahdal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elahdal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -75,12 +67,6 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/pUVOeIagS1rrqsYQJe/giphy.gif?cid=790b761110ssq7kwwofkaer0i1w5k2di2ty32j8onuhvc0r8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
